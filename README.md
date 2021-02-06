@@ -5,7 +5,7 @@
 <br>
 
 ## 주제 및 기대효과
-* United Nation sustainable development goal no.15 (Life on Land)
+* United Nations sustainable development goal no.15 (Life on Land)
 * 아프리카 돼지열병 창궐지 등, 질병관련 정보를 실시간으로 관찰, 추가 및 수정이 가능한 서비스
 * 질병 관련 정보가 전세계에 산발적으로 존재하며, 시각적으로 한눈에 알기 어려웠던 문제점을 해결
 * 다른 연구자들이 DB의 6만건 이상의 정보를 이용할 수 있도록 API를 제공
