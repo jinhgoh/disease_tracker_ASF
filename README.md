@@ -1,4 +1,4 @@
-![52dk](https://user-images.githubusercontent.com/68317603/107172122-ed17b000-6a07-11eb-816d-58e5efa812fd.png)
+<img src="https://user-images.githubusercontent.com/68317603/107172122-ed17b000-6a07-11eb-816d-58e5efa812fd.png" width="650px">
 
 
 # 아프리카 돼지열병(ASF) 정보 허브
@@ -80,7 +80,7 @@
 9. "updated_at" : 데이터 최근 수정일 
 
 
-<img src="https://user-images.githubusercontent.com/50551349/107113608-5e8a1e00-68a3-11eb-822c-a71927d0d000.png">
+<img src="https://user-images.githubusercontent.com/50551349/107113608-5e8a1e00-68a3-11eb-822c-a71927d0d000.png" width="700px">
 
  - 저장된 데이터의 예시는 위 그림과 같다.
 <br>
