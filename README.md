@@ -1,3 +1,6 @@
+![52dk](https://user-images.githubusercontent.com/68317603/107172122-ed17b000-6a07-11eb-816d-58e5efa812fd.png)
+
+
 # 아프리카 돼지열병(ASF) 정보 허브
  - 해커톤명 : <a href="https://dsc.community.dev/events/details/developer-student-clubs-sookmyung-womens-university-presents-2021-developer-student-clubs-korea-solution-challenge-hackathon/">DSC Korea Hackathon 2021</a>
  - 팀명 : 오이당근(<a href="https://github.com/jinhgoh">고진형</a>, <a href="https://github.com/yeongwooCho">이상훈</a>, <a href="https://github.com/yamiblack">이주형</a>, <a href="https://github.com/yeongwooCho">조영우</a>)
