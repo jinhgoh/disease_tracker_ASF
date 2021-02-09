@@ -58,10 +58,10 @@
 <br>
 
 ## 기술 스택
-* python 3.7.4
-* django 3.1.5
-* djangorestframework 3.12.2
-* sqlite3
+* Python 3.7.4
+* Django 3.1.5
+* Django REST framework 3.12.2
+* SQLite 3
 * uWSGI 2.0.19.1
 * NGINX 1.19
 * AWS EC2
