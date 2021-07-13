@@ -14,7 +14,7 @@
 * 다른 연구자들이 DB의 6만건 이상의 정보를 이용할 수 있도록 API를 제공
 <br>
 
-## 발표 영상 (아래 이미지 클릭)
+## 발표 영상 (아래 이미지 클릭 후 다운로드)
 [![Video Label](https://user-images.githubusercontent.com/50551349/107113750-4b2b8280-68a4-11eb-839d-b6782a37916c.png)](https://user-images.githubusercontent.com/50551349/107113305-82e4fb00-68a1-11eb-824b-fafe10d82693.mp4)
 <br>
 
