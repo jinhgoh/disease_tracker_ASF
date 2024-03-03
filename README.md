@@ -7,6 +7,13 @@
  - 기간 : 2021.01.31 ~ 2021.02.06
 <br>
 
+## 팀원별 역할 
+* <a href="https://github.com/jinhgoh">고진형</a> : 백엔드 개발, 데이터베이스, 서버
+* <a href="https://github.com/yeongwooCho">이상훈</a> : 프론트엔드 개발, Google API
+* <a href="https://github.com/yamiblack">이주형</a> : 프론트엔드 개발
+* <a href="https://github.com/yeongwooCho">조영우</a> : 데이터 크롤링, 수집
+<br>
+
 ## 주제 및 기대효과
 * United Nations sustainable development goal No.15 (Life on Land)
 * 아프리카 돼지열병 창궐지 등, 질병관련 정보를 실시간으로 관찰, 추가 및 수정이 가능한 서비스
@@ -83,10 +90,3 @@
 <img src="https://user-images.githubusercontent.com/50551349/107113608-5e8a1e00-68a3-11eb-822c-a71927d0d000.png" width="700px">
 
  - 저장된 데이터의 예시는 위 그림과 같다.
-<br>
-
-## 팀원별 역할 
-* <a href="https://github.com/jinhgoh">고진형</a> : 백엔드 개발, 데이터베이스, 서버
-* <a href="https://github.com/yeongwooCho">이상훈</a> : 프론트엔드 개발, Google API
-* <a href="https://github.com/yamiblack">이주형</a> : 프론트엔드 개발
-* <a href="https://github.com/yeongwooCho">조영우</a> : 데이터 크롤링, 수집
